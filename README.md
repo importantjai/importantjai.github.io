@@ -1,2 +1,2 @@
 # importantjai.github.io
-#欢迎来到我的博客
+# this is my first bog
