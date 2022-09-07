@@ -26,7 +26,7 @@
     font-size:50px;
     position:absolute;
     left:0;
-    top:20px;
+    top:10px;
     letter-spacing:18px;
  
 	}
